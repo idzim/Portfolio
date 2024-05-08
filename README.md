@@ -14,8 +14,7 @@ Have fun!
 If you find something, what in your opinion I should change, the just write me aobut that! I belelive that we can always learn sometihing new :D
 
 ## <a name="about_me">ABOUT ME</a>
-## <a name="about_me">MY CURRENT PROJECT</a>
-## <a name="about_me">MAIN SKILLS</a>
-## <a name="about_me">OTHER SKILLS</a>
-## <a name="about_me">BOOKS</a>
-## <a name="about_me">RECOMMENDED PAGES AND PEOPLE</a>
+## <a name="current">CURRENT PROJECTS</a>
+## <a name="main_skills">MAIN SKILLS</a>
+## <a name="other">OTHER SKILLS</a>
+## <a name="reccomendations">RECOMMENDATIONS</a>
