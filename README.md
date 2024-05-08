@@ -1,4 +1,6 @@
 # Portfolio
+Welcome to my GitHub!
+
 My portfolio with various activites related to IT. 
 
 The genral idea is to show my skills, learning paths, and competencies form diffrent fields.
