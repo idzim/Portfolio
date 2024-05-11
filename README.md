@@ -27,7 +27,7 @@ After hours I love coooking, board games and cats.
 ### Test Automation - Playwright/Typescript 
 ### Relational Databases - SQL
 ### API Testing - Postman
-### Test Cases and Scenarios - Jira
+### Test Cases and Scenarios
 ### Testing Techniques - ISTQB
 ### Bug Reports
 ### HTML/CSS
