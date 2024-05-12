@@ -18,8 +18,9 @@ Because:
  - I love to learn new things
  - I like to put a some effort to minimalize work to do in the future (for myself and other people)
  - I like to finding disfunctional things and bugs
+In my work I use: **T-SQL**, **Playwright**, **Azure DevOps**, **ISTQB**
 
-I also studing Computer Science at weeekends, where I learn about general fields of IT sector, learn how to use programming languages (C#, Javacript), working with Databases (Postgre, MySQL) and also build a website applications using HTML 5 and CSS.
+I also studing Computer Science at weeekends, where I learn about general fields of IT sector, learn how to use programming languages (**C#**, **Javacript**), working with Databases (**Postgre**, **MySQL**) and also build a website applications using **HTML 5** and **CSS**.
 
 After hours I love coooking, board games and cats. 
 ## <a name="current">CURRENT PROJECTS</a>
