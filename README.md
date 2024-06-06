@@ -30,15 +30,38 @@ I also studing Computer Science, where I am learning about diffrent fields of So
 After hours I love coooking, board games and cats. 
 
 ## <a name="current">CURRENT PROJECTS</a>
+
+Available soon
+
 ## <a name="main_skills">MAIN SKILLS</a>
-### Test Automation - Playwright/Typescript 
+### Test Automation - Playwright/Typescript
+
+Available soon
+
 ### Relational Databases - SQL
-### API Testing - Postman
+
+Available soon
+
+### API Testing
+
+Available soon
+
 ### Test Cases and Scenarios
+
+Available soon
+
 ### Testing Techniques - ISTQB
+
+Available soon
+
 ### Bug Reports
+
+Available soon
+
 ### HTML/CSS
+
+Available soon
+
 ## <a name="other">OTHER SKILLS</a>
 ### C#
 ### Unity
-## <a name="reccomendations">RECOMMENDATIONS</a>
