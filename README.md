@@ -11,7 +11,7 @@ Short guide: Each link lead to Repository contained examples of my activies with
 
 Have fun!
 
-If you find something, what in your opinion I should change, the just write me aobut that! I belelive that we can always learn sometihing new :D
+If you find something that, in your opinion, I should change, just let me know! I believe that we can always learn something new :D
 
 
 ## <a name="about_me">ABOUT ME</a>
