@@ -15,7 +15,7 @@ If you find something, what in your opinion I should change, the just write me a
 
 
 ## <a name="about_me">ABOUT ME</a>
-I'm working as a Software Tester, mostly manual one, but I like to automize tasks, whatever I can. I do it mostly to optimize my daily work and develop myself with automation tools. 
+I'm working as a Software Tester. I try to automize everywhere where it is possible. I do it mostly to optimize my daily work and develop myself with automation tools. 
 Why?
 Because:
  - I like do things in a efficient way
@@ -23,7 +23,7 @@ Because:
  - I like to put a some effort to minimalize work to do in the future (for myself and other people)
  - I like to finding disfunctional things and bugs
 
-In my work I use: **T-SQL**, **Playwright**, **Azure DevOps**, **ISTQB**
+In my work I use: **SQL**, **Playwright**, **Azure DevOps**, **ISTQB**
 
 I also studying Computer Science, where I am learning about diffrent fields of Software Develelopment, how to use programming languages (**C#**, **JavaScript**), working with Databases (**Postgre**, **MySQL**) and also build a website applications using **HTML 5** and **CSS**.
 
